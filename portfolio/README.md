@@ -1,3 +1,6 @@
+
+This repo contains [Joan John]'s portfolio and SPS projects.
+
 This directory is where you'll write all of your code!
 
 By default it contains a barebones portfolio web app. To run a local server,
